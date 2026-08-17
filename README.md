@@ -1,0 +1,2 @@
+# CloudRescue-Automated-Disaster-Recovery-System-
+CloudRescue is a cloud-based disaster recovery system that automatically backs up important data to secure cloud storage. When data is lost due to accidental deletion, system failure, or server issues, the system helps restore the latest backup. It also provides backup monitoring, recovery status, and user notifications for reliable data protection
